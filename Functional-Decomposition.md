@@ -1,8 +1,7 @@
 # Functional Decomposition
 
 ## *Vending machine from the machines perspective*
-___________________________________________
-
+----------------------------------------------------
 Human approaches the vending machine
     - Walks right up to me to be able to see the different chips
         - Eyes scanning back and forth
