@@ -14,3 +14,8 @@
         -The customer wants cool ranch doritos
     -Dispensing the desired item
         -Customer reaches into the slot and grabs his desired item
+
+
+## *The cookie is too big for the glass*
+-----------------------------------------
+### How can you fix this problem?
