@@ -20,8 +20,8 @@
 -----------------------------------------
 ### 1. How can you fix this problem?
 - Take hold of both ends of the cookie
-- Apply pressure until the cookie breaks in half
-- Now the cookie will fit into the glass
+    - Apply pressure until the cookie breaks in half
+    - Now the cookie will fit into the glass
 ### 2. How can you prevent this problem?
 - You can try using a bigger class so that the cookie will always fit inside the glass
 - You could always just break the cookie aswell.
