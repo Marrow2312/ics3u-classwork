@@ -1,2 +1,2 @@
 # ics3u-classwork
-mr gallos xlass
+mr gallos class
