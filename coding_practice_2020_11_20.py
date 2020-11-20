@@ -14,4 +14,4 @@ width = float (input("What is the width of the prism in cm?"))
 height = float (input("What is the height of the prism in cm?"))
 
 volume = (height*width*length)
-print("The volume is", volume, "cm")
+print("The volume is", volume, "cm cubed")
